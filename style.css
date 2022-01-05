@@ -4,3 +4,18 @@ body {
 background-color:green;
 
 }
+
+li a{
+  padding: 50px;
+  display: block;
+}
+
+li{
+  
+  float: left;
+}
+
+li a:hover {
+  
+  background-color: yellow;
+}
